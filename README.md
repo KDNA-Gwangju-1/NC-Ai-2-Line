@@ -37,11 +37,11 @@
 
 **3.** Branch File Name : Branch\_JH
 
-4\.
+4\. STASH 결과 : stash 후 화면이 view stash 버튼이 생겼습니다. restore 했을때 원래대로 돌아왔습니다.
 
-5\.
+5\. 브랜치에서 작업하고 메인으로 돌아갔을 때 작업들이 다 초기화 됐었는데 커밋을 안하고 돌아가서 다 사라졌던 것이었습니다.
 
-6\.
+6\. 예시 : README Text Edit, docs : 리드미에 브랜치 이름 추가
 
 
 
